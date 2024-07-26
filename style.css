@@ -53,3 +53,13 @@ header {
 #conteudo-titulo {
   text-align: center;
 }
+
+#textos {
+  font-size: 30px;
+  margin: 0px 20px 0px 20px; 
+  text-align: justify;
+}
+
+#subtitulo {
+  text-align: center;
+}
